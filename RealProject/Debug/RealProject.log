@@ -1,0 +1,81 @@
+﻿Build started 8/5/2019 4:56:33 PM.
+     1>Project "F:\Malith\OpenglExam\Graphic Project\RealProject\RealProject\RealProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Malith\Visual Studio\VC\bin\CL.exe /c /I"F:\Malith\openGL\freeglut-MSVC-3.0.0-2.mp\freeglut\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\RealProject.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\Malith\Visual Studio\VC\bin\CL.exe /c /I"F:\Malith\openGL\freeglut-MSVC-3.0.0-2.mp\freeglut\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\RealProject.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RealProject.cpp std_image.cpp
+         std_image.cpp
+         RealProject.cpp
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(54): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(55): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(63): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(79): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(199): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(260): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(278): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(286): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(297): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(306): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(317): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(370): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(381): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(392): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(407): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(422): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(424): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(430): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(432): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(493): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(499): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(500): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(513): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(514): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(515): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(521): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(521): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(523): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(535): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(541): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(548): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(555): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(562): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(569): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(669): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(692): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(777): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(783): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(789): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(796): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(802): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(829): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(837): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(839): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(849): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(856): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(866): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(873): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(876): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(883): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(886): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(895): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(915): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(916): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(918): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(936): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(938): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(940): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\malith\openglexam\graphic project\realproject\realproject\realproject.cpp(972): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+         Generating Code...
+       Link:
+         F:\Malith\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Malith\OpenglExam\Graphic Project\RealProject\Debug\RealProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\Malith\openGL\freeglut-MSVC-3.0.0-2.mp\freeglut\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Malith\OpenglExam\Graphic Project\RealProject\Debug\RealProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Malith\OpenglExam\Graphic Project\RealProject\Debug\RealProject.lib" /MACHINE:X86 Debug\RealProject.obj
+         Debug\stdafx.obj
+         Debug\std_image.obj
+     1>LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+         RealProject.vcxproj -> F:\Malith\OpenglExam\Graphic Project\RealProject\Debug\RealProject.exe
+     1>Done Building Project "F:\Malith\OpenglExam\Graphic Project\RealProject\RealProject\RealProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.79
